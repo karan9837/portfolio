@@ -1,0 +1,12 @@
+h1 {color: #F8D210;}
+h2 {color: #F51720;}
+ol {color: #2FF3E0;}
+h3 {color: #FA26A0;}
+p {color: #2FF3E0
+    ;}
+    * {background-color: #091115;}
+    a {text-decoration: none;}
+    a:active{color: white;
+    background-color: blueviolet;}
+    span {color: #A24D30
+        ;}
